@@ -1,0 +1,62 @@
+site_name: TRY THE CHOCOLATE
+site_description: 一块巧克力般值得细品的个人空间
+site_author: GuoYuehan
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: white
+      accent: brown
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - 主页: index.md
+  - 笔记:
+      - 笔记首页: note/index.md
+      - 会计笔记: note/accounting.md
+      - 计算机笔记: note/computer.md
+      - 经济学笔记: note/economics.md
+      - 观鸟笔记: note/bird.md
+  - 读书:
+      - 读书首页: book/index.md
+      - 社会学: book/sociology.md
+      - 历史: book/history.md
+      - 文学: book/literature.md
+      - 哲学思想: book/philosophy.md
+      - 科普科学: book/science.md
+  - 生活:
+      - 生活首页: life/index.md
+      - 旅行游记: life/travel.md
+      - 日常随笔: life/daily.md
+  - 关于: about.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+copyright: Copyright &copy; 2026 TRY THE CHOCOLATE
