@@ -35,11 +35,35 @@ nav:
       - 观鸟笔记: note/bird.md
   - 读书:
       - 读书首页: book/index.md
-      - 社会学: book/sociology.md
-      - 历史: book/history.md
-      - 文学: book/literature.md
-      - 哲学思想: book/philosophy.md
-      - 科普科学: book/science.md
+      - 社会学:
+          - 社会学首页: book/sociology/index.md
+          - 《乌合之众》: book/sociology/le-bon-crowd.md
+          - 《乡土中国》: book/sociology/xiangtu-china.md
+      - 历史:
+          - 历史首页: book/history/index.md
+          - 《人类简史》: book/history/sapiens.md
+          - 《万历十五年》: book/history/wanli-1587.md
+      - 文学:
+          - 文学首页: book/literature/index.md
+          - 《百年孤独》: book/literature/bainian-gudu.md
+          - 《红楼梦》: book/literature/hongloumeng.md
+          - 《悉达多》: book/literature/siddhartha.md
+      - 哲学思想:
+          - 哲学首页: book/philosophy/index.md
+          - 《理想国》: book/philosophy/plato-republic.md
+          - 《纯粹理性批判》: book/philosophy/kant-critique.md
+      - 科普科学:
+          - 科普首页: book/science/index.md
+          - 《时间简史》: book/science/brief-history-of-time.md
+          - 《自私的基因》: book/science/selfish-gene.md
+      - 经管:
+          - 经管首页: book/business/index.md
+          - 《科学管理原理》: book/business/scientific-management.md
+          - 《高效能人士的七个习惯》: book/business/seven-habits.md
+          - 《基业长青》: book/business/built-to-last.md
+  - 影视:
+      - 影视首页: movie/index.md
+      - 《午夜巴黎》: movie/midnight-in-paris.md
   - 生活:
       - 生活首页: life/index.md
       - 旅行游记: life/travel.md
