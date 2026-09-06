@@ -17,6 +17,7 @@
 
 ## 文章列表
 
+- [💼 别停留在媒体上，走到政策背后去看](business/zhishen-shinei.md)：兰小欢《置身事内》
 - [📜 从俯视到仰望：于人类进化史中探寻人之定位](history/sapiens.md)：尤瓦尔·赫拉利《人类简史》
 - [📖 出走多远，才能寻得自我](literature/siddhartha.md)：赫尔曼·黑塞《悉达多》
 - [💼 效率、利益支配下的握手言和](business/scientific-management.md)：弗雷德里克·泰勒《科学管理原理》

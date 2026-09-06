@@ -13,6 +13,7 @@
 - [《科学管理原理》](scientific-management.md)：弗雷德里克·泰勒
 - [《高效能人士的七个习惯》](seven-habits.md)：史蒂芬·柯维
 - [《基业长青》](built-to-last.md)：吉姆·柯林斯
+- [《置身事内》](zhishen-shinei.md)：兰小欢
 
 !!! note "小提示"
     读书笔记会陆续补充，可以在顶部搜索框搜索关键词，快速找到想看的内容。
